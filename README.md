@@ -1,4 +1,4 @@
-- 👋 Howdy, I'm Riley
+- 👋 Howdy, I'm Kell
   
 - 👀 I enjoy A.I, basic cyber security and im currently getting my degree in Computer Science
 - 💞️ Pronouns are she/her/they
