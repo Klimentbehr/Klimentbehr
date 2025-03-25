@@ -1,7 +1,5 @@
-- 👋 Howdy, I'm Kell
-  
-- 👀 I enjoy A.I, basic cyber security and im currently getting my Masters degree in Computer Science
-- 📫 If you need to reach me for whatever reason my discord is kell_storm
-
--https://github.com/Klimentbehr/Sketch-To-Mesh
-
+👋 Hi, I'm Kell Behr
+🎓 Master's student in Computer Science with a focus on A.I. and cybersecurity
+🔍 Passionate about practical systems development and emerging technologies
+🛠️ Currently working on: Sketch-To-Mesh
+📬 Connect with me on Discord: kell_storm
