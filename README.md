@@ -6,4 +6,3 @@
 
 🛠️ Currently working on: R0B1T5
 
-📬 Connect with me on Discord: kell_storm
