@@ -1,8 +1,3 @@
-👋 Hi, I'm Kell 
+Tech has ruined our brains and A.I wont save you
 
-🎓 Master's student in Computer Science with a focus on A.I. and cybersecurity
-
-🔍 Passionate about practical systems development and emerging technologies
-
-🛠️ Currently working on: R0B1T5
-
+Learn assembly and local host everything :3
