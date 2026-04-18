@@ -1,4 +1,4 @@
-👋 Hi, I'm Kell Behr
+👋 Hi, I'm Kell 
 
 🎓 Master's student in Computer Science with a focus on A.I. and cybersecurity
 
