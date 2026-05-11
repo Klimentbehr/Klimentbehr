@@ -1,3 +1,1 @@
-Tech has ruined our brains and A.I wont save you
-
-Learn assembly and local host everything :3
+Full-time student and developer focused on software engineering, data systems, cybersecurity, and trading technology. I build practical tools, dashboards, automation systems, and research-driven applications with a focus on clean structure, usability, and real-world problem solving.
