@@ -1,0 +1,7 @@
+Value_Bin,Lower_Million,Upper_Million,Frequency
+Under $2M,0,2,7
+$2M-$5M,2,5,17
+$5M-$10M,5,10,14
+$10M-$20M,10,20,9
+$20M-$40M,20,40,6
+$40M+,40,80,3
